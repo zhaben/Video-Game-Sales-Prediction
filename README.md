@@ -5,6 +5,6 @@ The goal of this project is to predict the number of North American sales units 
 
 I use OSEMN framework as a data science process to obtain, scrub, explore, model, and interpret the data.
 
-After filtering data that posed problems for the linearity and normality standards for linear regeression, I use the forward selection model to choose which features were the best for predicting sales using unknown data.
+After filtering data that posed problems for the linearity and normality standards for linear regeression, I use the forward selection model to choose which features were the best for predicting sales based on unknown data.
 
 I finished with an RMSE of .49, which indicates the absolute fit of the model, or how close the predicted values are to the actual data.
