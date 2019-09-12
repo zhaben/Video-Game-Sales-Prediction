@@ -9,4 +9,4 @@ After filtering data that posed problems for the linearity and normality standar
 
 I finished with an MSE of .49, which indicates the absolute fit of the model, or how close the predicted values are to the actual data. 
 
-MSE is the standard deviation of the prediction errors, or residuals. Residuals are a measure of how far the regression the data points are. RMSE shows how spread out the residuals are. The RMSE shows how concentrated the data is around the line of best fit.
+MSE is the standard deviation of the prediction errors, or residuals. Residuals are a measure of how far the regression the data points are. MSE shows how spread out the residuals are. The MSE shows how concentrated the data is around the line of best fit.
