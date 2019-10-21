@@ -1,3 +1,8 @@
+Note: Sometimes Jupyter Notebook files do not render on Github, paste the link in nbviewer if you cannot open the .ipynb file.
+https://nbviewer.jupyter.org/
+
+--------
+
 # Video-Game-Sales-Prediction
 Linear Regression to predict video game sales in North America
 
